@@ -1,6 +1,9 @@
 # HR Dashboard
 
-dashboard image will come here
+![screenshot1](https://github.com/ekitv2021/hr-dashboard-weekend/blob/main/images/screenshot1.png)
+![screenshot2](https://github.com/ekitv2021/hr-dashboard-weekend/blob/main/images/screenshot2.png)
+![screenshot3](https://github.com/ekitv2021/hr-dashboard-weekend/blob/main/images/screenshot3.png)
+![screenshot4](https://github.com/ekitv2021/hr-dashboard-weekend/blob/main/images/screenshot4.png)
 
 ## Data Used
 **Data** – HR Data with over 19000 rows from the year 2000 to 2022 with the information about each employee’s id, name, gender, race, department, job title, birth date, age, hire date, termination date, job location. 
